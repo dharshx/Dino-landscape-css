@@ -1,4 +1,4 @@
-# 🦕 Dino Animation CSS
+# Dino Animation CSS 🦕 
 
 Welcome to the Dino Animation using CSS! 🌄🏃‍♂️
 
