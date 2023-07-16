@@ -2,6 +2,10 @@
 
 Welcome to the Dino Animation using CSS! 🌄🏃‍♂️
 
+## Preview
+
+![Piano App Preview](screenshot.jpg)
+
 ## How to view? 🎮
 To view the animation, simply open the `index.html` file in your web browser. The game will start automatically, and you can sit back and enjoy the animated landscape. The dinosaur will continuously run across the screen, creating an immersive experience.
 
