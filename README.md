@@ -14,8 +14,6 @@ To view the animation, simply open the `index.html` file in your web browser. Th
 - **Smooth Animation**: The animations are implemented using CSS keyframes and transitions, providing a smooth and realistic movement for the dinosaur and other elements.
 - **Responsive Design**: The game is designed to adapt to different screen sizes, ensuring an optimal viewing experience on both desktop and mobile devices.
 
-## Live Demo 🚀
-You can check out a live demo of the game [here](https://github.io/dino-animation-css), where you can see the animated landscape in action. Feel free to explore and enjoy the captivating visuals!
 
 ## Installation ⚙️
 To run the code locally, follow these steps:
